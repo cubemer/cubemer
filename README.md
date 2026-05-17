@@ -1,13 +1,13 @@
-# cubemer
+# juan miguel carmona zavla
 
-building software at poroq labs. ex-charter/spectrum, where i cut a 2-minute support process to 3 seconds with a speedtest integration.
+i once cut a 2-minute call-center process to 3 seconds. i think about leverage like that.
 
 ## shipping
 
 - **[briefing](https://briefing.poroq.com)** — daily 5am news agent. langgraph + claude haiku + pinecone, delivered via telegram.
-- **[ediq](https://github.com/cubemer/ediq)** — edi 850 → json middleware in go for small cpg brands. validated with an industrial entrepreneur, c2 in progress.
 - **[piecemill](https://github.com/cubemer/piecemill)** — overcooked-style factory sim modeled on the liberty puzzles workflow. ts + react + pocketbase.
-- **[poroq-homelab](https://github.com/cubemer/poroq-homelab)** — rocky + podman + quadlet, 2014 mac mini, adguard live.
+<!--- **[ediq](https://github.com/cubemer/ediq)** — edi 850 → json middleware in go for small cpg brands. validated with an industrial entrepreneur, c2 in progress.
+- **[poroq-homelab](https://github.com/cubemer/poroq-homelab)** — rocky + podman + quadlet, 2014 mac mini, adguard live. -->
 
 ## elsewhere
 
